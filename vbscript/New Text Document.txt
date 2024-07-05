@@ -1,0 +1,3 @@
+MyShell=CreateObject(“WScript.shell”)
+Create a “WScript.shell” object.
+oMyShell.run “notepad.exe”
